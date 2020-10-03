@@ -19,14 +19,10 @@ Here we will learn to use "dlib" library to train as well as recognize the face
       3. name_3
       4. and so on...
   - when you copied the photos in id folder just run the following command to **TRAIN(encode)** with the photos
-    - ```python
-      python encoding.py
-      ```
+    - `python encoding.py`
     - this will create a **encodings.pickle** file which contains the 128-facial features
     - human can't read that pickle file
   - the last step i.e. **DETECTION** run the command given below in your terminal
-    - ```python
-      python detect.py
-      ```
+    - `python detect.py`
 
 - thats it for the begineer level 
