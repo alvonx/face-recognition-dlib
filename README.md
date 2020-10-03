@@ -14,12 +14,12 @@ Here we will learn to use "dlib" library to train as well as recognize the face
   - add your picture (only one needed) in the id folder and name it as **your-name_id**
     - _ (underscore) matters here in between your-name and id
     - example: in my case **deepak_1**
-    - if you want to train more than one the copy their photo in id folder and name them as following example:
+    - if you want to train more than one then add their photo in id folder and name them as following examples:
       1. name_1
       2. name_2
       3. name_3
       4. and so on...
-  - when you copied the photos in id folder just run the following command to **TRAIN(encode)** with the photos
+  - when you are done with adding the photos in id folder just run the following command to **TRAIN(encode)** with the photos
     - `python encoding.py`
     - this will create a **encodings.pickle** file which contains the 128-facial features
     - human can't read that pickle file
