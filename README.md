@@ -12,6 +12,7 @@ Here we will learn to use "dlib" library to train as well as recognize the face
 
 - running the code
   - add your picture (only one needed) in the id folder and name it as **your-name_id**
+    - _ (underscore) matters here in between your-name and id
     - example: in my case **deepak_1**
     - if you want to train more than one the copy their photo in id folder and name them as following example:
       1. name_1
